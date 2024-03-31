@@ -1,0 +1,8 @@
+All Q/A: https://github.com/cg-gdsc/FAQ/blob/master/Readme.md#how-can-i-access-my-aws-account
+
+Where do I find the videos for the Tutorials: https://gdsc.ce.capgemini.com/app/portal/resources/
+
+For future logins, you can directly click on: https://gdsc22.awsapps.com/start#/
+
+Setting up AWS: https://github.com/cg-gdsc/GDSC-6/blob/gdsc_6/notebooks/Tutorial1_Setting_Up_AWS.ipynb
+
